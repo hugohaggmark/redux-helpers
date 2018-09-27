@@ -3,7 +3,7 @@ export interface IAction<T> {
   readonly payload: T;
 }
 
-interface IActionCreator<T> {
+export interface IActionCreator<T> {
   readonly type: string;
   (payload: T): IAction<T>;
 }

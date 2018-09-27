@@ -1,0 +1,11 @@
+{
+  "trailingComma": "all",
+  "arrowParens": "always",
+  "jsxBracketSameLine": false,
+  "eslintIntegration": true,
+  "tslintIntegration": true,
+  "singleQuote": true,
+  "printWidth": 120,
+  "semi": true,
+  "tabWidth": 2
+}
